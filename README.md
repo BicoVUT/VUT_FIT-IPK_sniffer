@@ -8,11 +8,17 @@ V projekte nebolo implementované analyzovanie nad protokolmi TCP IPv6 a UDP IPv
 Argument --help, vypíše nápovedu s navratovým kodom 0.
 
 Priklad spustenia	
+			
 			1. make
+			
 		    	2. sudo ./ipk-sniffer -i eth0
 			
 Zoznam odovzdaných súborov	
+
 				1.ipk-sniffer.cpp
+				
 				2.Makefile
+				
 				3.manual.pdf
+				
 				4.README
