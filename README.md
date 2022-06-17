@@ -13,12 +13,3 @@ Priklad spustenia
 			
 		    	2. sudo ./ipk-sniffer -i eth0
 			
-Zoznam odovzdaných súborov	
-
-				1.ipk-sniffer.cpp
-				
-				2.Makefile
-				
-				3.manual.pdf
-				
-				4.README
